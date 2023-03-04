@@ -1,7 +1,7 @@
 
 {
-  "You've been muted in %s for %s for %s": {
-    "german": "Du wurdest in %s für %s stummgeschaltet wegen %s",
+  "You've been muted in %1 for %2 for %3": {
+    "german": "Du wurdest in %1 für %2 stummgeschaltet wegen %3",
     "spanish": "The translation"
 
   }
