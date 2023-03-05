@@ -7,7 +7,12 @@
     "dutch": "je bent gedempt in %1 voor %2 vanwege %3",
     "italian": "sei stato silenziato in %1 per %2 a causa di %3",
     "croatian": "isključen vam je zvuk u %1 za %2 zbog %3",
-    "portuguese": "você foi silenciado em %1 por %2 por causa de %3"
+    "portuguese": "você foi silenciado em %1 por %2 por causa de %3",
+    "russian": "вы были отключены в %1 для %2 из-за %3",
+    "swedish": "du har blivit avstängd i %1 för %2 på grund av %3",
+    "czech": "byli jste ztlumenu v %1 uživatelem %2 z důvodu %3",
+    "arabic": "تم كتم صوتك في% 1 لـ% 2 بواسطة% 3"
+
 
   }
 }
