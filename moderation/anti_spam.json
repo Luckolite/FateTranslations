@@ -11,7 +11,8 @@
     "russian": "вы были отключены в %1 для %2 из-за %3",
     "swedish": "du har blivit avstängd i %1 för %2 på grund av %3",
     "czech": "byli jste ztlumenu v %1 uživatelem %2 z důvodu %3",
-    "arabic": "تم كتم صوتك في% 1 لـ% 2 بواسطة% 3"
+    "arabic": "تم كتم صوتك في% 1 لـ% 2 بواسطة% 3",
+    "dhivehi": "thibaa ge anga huhtevunee 1% in 2% ah 3% un"
 
 
   }
