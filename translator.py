@@ -14,10 +14,12 @@ class Translator(app_commands.Translator):
         for word in specials:
             stripped = stripped.replace(word, "%s")
 
-        translation: str = self.translations[stripped]["the locale"]
+        translation: str = string
 
         if stripped in self.translations:
+            translation = self.translations[stripped]["the locale"]
             for i, word in enumerate(specials):
                 translation.replace("%s", word, 1)
+
 
         return translation
