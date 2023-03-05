@@ -1,16 +1,16 @@
 
 {
-  "You've been muted in %1 for %2 for %3": {
-    "german": "Du wurdest in %1 für %2 stummgeschaltet wegen %3",
+  "You've been muted in %s for %s for %s": {
+    "german": "Du wurdest in %s für %s stummgeschaltet wegen %s",
     "spanish": "The translation",
-    "french": "vous avez été mis en sourdine dans %1 pour %2 à cause de %3",
-    "dutch": "je bent gedempt in %1 voor %2 vanwege %3",
-    "italian": "sei stato silenziato in %1 per %2 a causa di %3",
-    "croatian": "isključen vam je zvuk u %1 za %2 zbog %3",
-    "portuguese": "você foi silenciado em %1 por %2 por causa de %3",
-    "russian": "вы были отключены в %1 для %2 из-за %3",
-    "swedish": "du har blivit avstängd i %1 för %2 på grund av %3",
-    "czech": "byli jste ztlumenu v %1 uživatelem %2 z důvodu %3",
+    "french": "vous avez été mis en sourdine dans %s pour %s à cause de %s",
+    "dutch": "je bent gedempt in %s voor %s vanwege %s",
+    "italian": "sei stato silenziato in %s per %s a causa di %s",
+    "croatian": "isključen vam je zvuk u %s za %s zbog %s",
+    "portuguese": "você foi silenciado em %s por %s por causa de %s",
+    "russian": "вы были отключены в %s для %s из-за %s",
+    "swedish": "du har blivit avstängd i %s för %s på grund av %s",
+    "czech": "byli jste ztlumenu v %s uživatelem %s z důvodu %s",
     "arabic": "تم كتم صوتك في% 1 لـ% 2 بواسطة% 3"
 
 
