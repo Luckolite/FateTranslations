@@ -2,7 +2,12 @@
 {
   "You've been muted in %1 for %2 for %3": {
     "german": "Du wurdest in %1 für %2 stummgeschaltet wegen %3",
-    "spanish": "The translation"
+    "spanish": "The translation",
+    "french": "vous avez été mis en sourdine dans %1 pour %2 à cause de %3",
+    "dutch": "je bent gedempt in %1 voor %2 vanwege %3",
+    "italian": "sei stato silenziato in %1 per %2 a causa di %3",
+    "croatian": "isključen vam je zvuk u %1 za %2 zbog %3",
+    "portuguese": "você foi silenciado em %1 por %2 por causa de %3"
 
   }
 }
