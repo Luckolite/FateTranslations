@@ -11,7 +11,7 @@
     "russian": "вы были отключены в %s для %s из-за %s",
     "swedish": "du har blivit avstängd i %s för %s på grund av %s",
     "czech": "byli jste ztlumenu v %s uživatelem %s z důvodu %s",
-    "arabic": "تم كتم صوتك في% 1 لـ% 2 بواسطة% 3"
+    "arabic": "تم كتم صوتك في%s بسبب%s بواسطة%s"
 
 
   }
