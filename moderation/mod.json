@@ -1,0 +1,14 @@
+{
+  "That command is already running >:(": {
+    "": ""
+  },
+  "You lack administrator or usermod permissions to use this command": {
+    "": ""
+  },
+  "Couldn't convert '%s' into member": {
+    "": ""
+  },
+  "Role not found": {
+    "": ""
+  }
+}
