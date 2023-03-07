@@ -1,72 +1,38 @@
-/*English*/
 {
   "That command is already running >:(": {
-    "": ""
+    "German":"",
+    "Spanish":"Ese comando ya se está ejecutando>:(",
+    "French":"Cette commande est déjà en cours d'exécution > :(",
+    "Dutch":"Dat commando wordt al uitgevoerd >:(",
+    "Italian": "Quel comando è già in esecuzione >:(",
+    "Croatian": "Ta se naredba već izvodi >:(",
+    "Portuguese": "Este comando já está em execução >:("
   },
   "You lack administrator or usermod permissions to use this command": {
-    "": ""
+    "German": "",
+    "Spanish": "No tiene permisos de administrador o usuario para usar este comando",
+    "French": "Vous n'avez pas les autorisations admin ou usermod pour utiliser cette commande",
+    "Dutch": "U heeft geen beheerders- of usermod-machtigingen om deze opdracht te gebruiken",
+    "Italian":"Non si dispone delle autorizzazioni di amministratore o utente per utilizzare questo comando",
+    "Croatian": "Nemate administratorska ili usermod dopuštenja za korištenje ove naredbe",
+    "Portuguese": "Você não tem permissões de administrador ou usermod para usar este comando"
   },
   "Couldn't convert '%s' into member": {
-    "": ""
+    "German": "",
+    "Spanish": "No se pudo hacer miembro a '%s'",
+    "French": "Impossible de convertir '%s' en membre",
+    "Dutch": "Kan '%s' niet converteren naar lid",
+    "Italian":"Impossibile convertire '%s' in membro",
+    "Croatian": "Nije moguće pretvoriti '%s' u člana",
+    "Portuguese": "Não foi possível converter '%s' em membro"
   },
   "Role not found": {
-    "": ""
-  }
-}
-
-/*German*/
-
-{
-  " >:(": {
-
-  }
-}
-
-/*Spanish*/
-{
-  "Ese comando ya se está ejecutando>:(": {
-    "": ""
-  },
-  "No tiene permisos de administrador o usuario para usar este comando": {
-    "": ""
-  },
-  "No se pudo hacer miembro a '%s'": {
-    "": ""
-  },
-  "rol no encontrado":{
-    "": ""
-  }
-}
-
-/*French*/
-
-{
-  "Cette commande est déjà en cours d'exécution > :(": {
-    "": ""
-  },
-  "Vous n'avez pas les autorisations admin ou usermod pour utiliser cette commande":{
-    "": ""
-  },
-  "Impossible de convertir '%s' en membre":{
-    "": ""
-  },
-  "Rôle introuvable":{
-    "": ""
-  }
-}
-
-/*Dutch*/
-{
-  "Dat commando wordt al uitgevoerd >:(":{
-    "": ""
-  },
-  "U heeft geen beheerders- of usermod-machtigingen om deze opdracht te gebruiken":{
-    "": ""
-  },
-  "Kan '%s' niet converteren naar lid":{
-    "": ""
-  },
-  "Rol niet gevonden":{
-    "": ""
+    "German": "",
+    "Spanish": "rol no encontrado",
+    "French": "Rôle introuvable",
+    "Dutch": "Rol niet gevonden",
+    "Italian":"Ruolo non trovato",
+    "Croatian": "Uloga nije pronađena",
+    "Portuguese": "função de usuário não encontrada"
   }
 }
