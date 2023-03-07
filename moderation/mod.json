@@ -1,3 +1,4 @@
+/*English*/
 {
   "That command is already running >:(": {
     "": ""
@@ -9,6 +10,63 @@
     "": ""
   },
   "Role not found": {
+    "": ""
+  }
+}
+
+/*German*/
+
+{
+  " >:(": {
+
+  }
+}
+
+/*Spanish*/
+{
+  "Ese comando ya se está ejecutando>:(": {
+    "": ""
+  },
+  "No tiene permisos de administrador o usuario para usar este comando": {
+    "": ""
+  },
+  "No se pudo hacer miembro a '%s'": {
+    "": ""
+  },
+  "rol no encontrado":{
+    "": ""
+  }
+}
+
+/*French*/
+
+{
+  "Cette commande est déjà en cours d'exécution > :(": {
+    "": ""
+  },
+  "Vous n'avez pas les autorisations admin ou usermod pour utiliser cette commande":{
+    "": ""
+  },
+  "Impossible de convertir '%s' en membre":{
+    "": ""
+  },
+  "Rôle introuvable":{
+    "": ""
+  }
+}
+
+/*Dutch*/
+{
+  "Dat commando wordt al uitgevoerd >:(":{
+    "": ""
+  },
+  "U heeft geen beheerders- of usermod-machtigingen om deze opdracht te gebruiken":{
+    "": ""
+  },
+  "Kan '%s' niet converteren naar lid":{
+    "": ""
+  },
+  "Rol niet gevonden":{
     "": ""
   }
 }
