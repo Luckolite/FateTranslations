@@ -6,7 +6,10 @@
     "Dutch":"Dat commando wordt al uitgevoerd >:(",
     "Italian": "Quel comando è già in esecuzione >:(",
     "Croatian": "Ta se naredba već izvodi >:(",
-    "Portuguese": "Este comando já está em execução >:("
+    "Portuguese": "Este comando já está em execução >:(",
+    "Russian": "Эта команда уже запущена >:(",
+    "Swedish": "Det kommandot körs redan >:(",
+    "Czech":"Ten příkaz už běží >:("
   },
   "You lack administrator or usermod permissions to use this command": {
     "German": "",
@@ -15,7 +18,10 @@
     "Dutch": "U heeft geen beheerders- of usermod-machtigingen om deze opdracht te gebruiken",
     "Italian":"Non si dispone delle autorizzazioni di amministratore o utente per utilizzare questo comando",
     "Croatian": "Nemate administratorska ili usermod dopuštenja za korištenje ove naredbe",
-    "Portuguese": "Você não tem permissões de administrador ou usermod para usar este comando"
+    "Portuguese": "Você não tem permissões de administrador ou usermod para usar este comando",
+    "Russian": "У вас недостаточно прав администратора или пользователя для использования этой команды.",
+    "Swedish": "Du saknar administratörs- eller usermod-privilegier för att använda detta kommando",
+    "Czech":"K použití tohoto příkazu vám chybí oprávnění správce nebo usermod"
   },
   "Couldn't convert '%s' into member": {
     "German": "",
@@ -24,7 +30,10 @@
     "Dutch": "Kan '%s' niet converteren naar lid",
     "Italian":"Impossibile convertire '%s' in membro",
     "Croatian": "Nije moguće pretvoriti '%s' u člana",
-    "Portuguese": "Não foi possível converter '%s' em membro"
+    "Portuguese": "Não foi possível converter '%s' em membro",
+    "Russian": "Не удалось преобразовать '%s' в участника",
+    "Swedish": "Kunde inte konvertera '%s' till medlem",
+    "Czech":"Nelze převést '%s' na člena"
   },
   "Role not found": {
     "German": "",
@@ -33,6 +42,9 @@
     "Dutch": "Rol niet gevonden",
     "Italian":"Ruolo non trovato",
     "Croatian": "Uloga nije pronađena",
-    "Portuguese": "função de usuário não encontrada"
+    "Portuguese": "função de usuário não encontrada",
+    "Russian": "Роль не найдена",
+    "Swedish": "Rollen hittades inte",
+    "Czech":"Role nenalezena"
   }
 }
