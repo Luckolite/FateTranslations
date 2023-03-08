@@ -11,7 +11,7 @@
   "Error saving changes because to a duplicate entry, it's likely you ran the command twice at once": {
     "": ""
   },
-  "/{ctx.command}/ is disabled here": {
+  "/{command}/ is disabled here": {
     "": ""
   },
   "Something I tried to do an operation on was removed or doesn't exist": {
