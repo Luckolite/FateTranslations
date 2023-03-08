@@ -1,38 +1,38 @@
 {
   "Oop, I had an internal error. Rerun the command": {
-    "": ""
+    "german": "Hoppla, Ein interner Fehler ist aufgetreten :( Bitte versuch es erneut."
   },
   "`/{command}/` is disabled.": {
-    "": ""
+    "german": "`/{command}/` is deaktivert."
   },
   "You can't include a `\"` in that argument": {
-    "": ""
+    "german": "Du kannst kein `\"` in diesem Argument verwenden."
   },
   "Error saving changes because to a duplicate entry, it's likely you ran the command twice at once": {
-    "": ""
+    "german": "Änderungen konnten nicht gespeichert werden, da es einen doppelten Eintrag gab. Möglicherweise hast du den Befehl zweimal gleichzeitig ausgeführt?"
   },
   "/{command}/ is disabled here": {
-    "": ""
+    "german": "Hier ist /{command}/ deaktivert"
   },
   "Something I tried to do an operation on was removed or doesn't exist": {
-    "": ""
+    "german": "Eine Operation kann nicht ausgeführt werden aufgrund eines unerwarteten Fehlers."
   },
   "I don't have permission to reply to you in /{guild}/": {
-    "": ""
+    "german": "Ich habe keine Berechtigung, dir in /{guild}/ zu antworten"
   },
   "Can't operate due to this server reaching the max number of roles": {
-    "": ""
+    "german": "/{guild}/ hat maximale Rollen erreicht."
   },
   "Oop-\\nDiscord shit in the bed\\nIt's not my fault, it's theirs": {
-    "": ""
+    "german": "Hoppla, die Operation kann nicht ausgeführt werden, da Discord technische Probleme hat."
   },
   "You can't use quotes in that command argument": {
-    "": ""
+    "german": "Du kannst keine Anführungszeichen in diesem Befehlsargument verwenden."
   },
   "No Data: /{error}/": {
-    "": ""
+    "german": "Keine Daten /{error}/"
   },
   "This error has been logged, and will be fixed soon": {
-    "": ""
+    "german": "Dieser Fehler wurde erfasst und wird später behoben."
   }
 }
