@@ -1,1 +1,38 @@
-
+{
+  "Oop, I had an internal error. Rerun the command": {
+    "": ""
+  },
+  "`/{command}/` is disabled.": {
+    "": ""
+  },
+  "You can't include a `\"` in that argument": {
+    "": ""
+  },
+  "Error saving changes because to a duplicate entry, it's likely you ran the command twice at once": {
+    "": ""
+  },
+  "/{ctx.command}/ is disabled here": {
+    "": ""
+  },
+  "Something I tried to do an operation on was removed or doesn't exist": {
+    "": ""
+  },
+  "I don't have permission to reply to you in /{guild}/": {
+    "": ""
+  },
+  "Can't operate due to this server reaching the max number of roles": {
+    "": ""
+  },
+  "Oop-\\nDiscord shit in the bed\\nIt's not my fault, it's theirs": {
+    "": ""
+  },
+  "You can't use quotes in that command argument": {
+    "": ""
+  },
+  "No Data: /{error}/": {
+    "": ""
+  },
+  "This error has been logged, and will be fixed soon": {
+    "": ""
+  }
+}
