@@ -57,7 +57,7 @@
     "PT": "/{command}/ está desabilitado aqui",
     "RU": "/{command}/ здесь отключена",
     "SV": "/{command}/ är inaktiverat här",
-    "CS": "/{command}/ je zde zakázáno"
+    "CS": "/{command}/ je zde deaktivovaný"
   },
   "Something I tried to do an operation on was removed or doesn't exist": {
     "DE": "Eine Operation kann nicht ausgeführt werden aufgrund eines unerwarteten Fehlers.",
