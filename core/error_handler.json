@@ -21,7 +21,7 @@
     "PT": "`/{command}/` está desabilitado.",
     "RU": "`/{command}/` отключена.",
     "SV": "`/{command}/` är inaktiverat.",
-    "CS": "`/{command}/` je zakázáno."
+    "CS": "`/{command}/` je deaktivovaný."
   },
   "You can't include a `\"` in that argument": {
     "DE": "Du kannst kein `\"` in diesem Argument verwenden.",
@@ -45,7 +45,7 @@
     "PT": "Erro ao salvar as alterações porque, para uma entrada duplicada, é provável que você tenha executado o comando duas vezes ao mesmo tempo",
     "RU": "Ошибка при сохранении изменений из-за повторяющейся записи, скорее всего, вы выполнили команду дважды одновременно.",
     "SV": "Fel när ändringarna skulle sparas eftersom det är troligt att du körde kommandot två gånger samtidigt för en dubblettpost",
-    "CS": "Při ukládání změn došlo k chybě, protože u duplicitní položky je pravděpodobné, že jste příkaz spustili dvakrát najednou"
+    "CS": "Při ukládání změn došlo k chybě kvůli duplicitní položce, je pravděpodobné že jste příkaz spustili dvakrát najednou"
   },
   "/{command}/ is disabled here": {
     "DE": "Hier ist /{command}/ deaktivert",
@@ -93,7 +93,7 @@
     "PT": "Não é possível operar porque este servidor atingiu o número máximo de funções",
     "RU": "Невозможно работать из-за того, что на этом сервере достигнуто максимальное количество ролей",
     "SV": "Kan inte fungera på grund av att den här servern når det maximala antalet roller",
-    "CS": "Nelze fungovat, protože tento server dosáhl maximálního počtu rolí"
+    "CS": "Nelze operovat, protože tento server dosáhl maximálního počtu rolí"
   },
   "Oop-\\nDiscord shit in the bed\\nIt's not my fault, it's theirs": {
     "DE": "Hoppla, die Operation kann nicht ausgeführt werden, da Discord technische Probleme hat.",
@@ -105,7 +105,7 @@
     "PT": "Oop-\\nDiscord merda na cama\\nNão é minha culpa, é deles",
     "RU": "Упс-\\nDiscord дерьмо в постели\\nЭто не моя вина, это их вина",
     "SV": "Hoppsan-\\nDiscord i sängen\\nDet är inte mitt fel, det är deras",
-    "CS": "Jejda-\\nDiscord sračky v posteli\\nNení to moje chyba, je to jejich"
+    "CS": "Jejda-\\nDiscord se posral v posteli\\nNení to moje chyba, je to jejich"
   },
   "You can't use quotes in that command argument": {
     "DE": "Du kannst keine Anführungszeichen in diesem Befehlsargument verwenden.",
