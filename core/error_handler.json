@@ -1,38 +1,76 @@
 {
   "Oop, I had an internal error. Rerun the command": {
-    "german": "Hoppla, Ein interner Fehler ist aufgetreten :( Bitte versuche es erneut."
+    "german": "Hoppla, Ein interner Fehler ist aufgetreten :( Bitte versuche es erneut.",
+    "spanish": "Vaya, tuve un error interno. Vuelva a ejecutar el comando",
+    "french": "Oups, j'ai eu une erreur interne. Relancez la commande",
+    "dutch": "Oeps, ik had een interne fout. Voer de opdracht opnieuw uit"
   },
   "`/{command}/` is disabled.": {
-    "german": "`/{command}/` is deaktivert."
+    "german": "`/{command}/` is deaktivert.",
+    "spanish": "`/{command}/` está deshabilitado.",
+    "french": "`/{command}/` est désactivé.",
+    "dutch": "`/{command}/` is uitgeschakeld."
   },
   "You can't include a `\"` in that argument": {
-    "german": "Du kannst kein `\"` in diesem Argument verwenden."
+    "german": "Du kannst kein `\"` in diesem Argument verwenden.",
+    "spanish": "No puedes incluir un `\"` en ese argumento",
+    "french": "vous ne pouvez pas inclure un `\"` dans cet argument",
+    "dutch": "U kunt geen `\"` in dat argument opnemen"
   },
   "Error saving changes because to a duplicate entry, it's likely you ran the command twice at once": {
-    "german": "Änderungen konnten nicht gespeichert werden, da es einen doppelten Eintrag gab. Möglicherweise hast du den Befehl zweimal gleichzeitig ausgeführt?"
+    "german": "Änderungen konnten nicht gespeichert werden, da es einen doppelten Eintrag gab. Möglicherweise hast du den Befehl zweimal gleichzeitig ausgeführt?",
+    "spanish": "Error al guardar los cambios debido a una entrada duplicada, es probable que haya ejecutado el comando dos veces a la vez",
+    "french": "Erreur lors de l'enregistrement des modifications car pour une entrée en double, il est probable que vous ayez exécuté la commande deux fois à la fois",
+    "dutch": "Fout bij het opslaan van wijzigingen omdat het waarschijnlijk is dat u de opdracht twee keer tegelijk hebt uitgevoerd voor een dubbele invoer",
+
   },
   "/{command}/ is disabled here": {
-    "german": "Hier ist /{command}/ deaktivert"
+    "german": "Hier ist /{command}/ deaktivert",
+    "spanish": "/{command}/ está deshabilitado aquí",
+    "french": "/{command}/ est désactivé ici",
+    "dutch": "/{command}/ is hier uitgeschakeld"
   },
   "Something I tried to do an operation on was removed or doesn't exist": {
-    "german": "Eine Operation kann nicht ausgeführt werden aufgrund eines unerwarteten Fehlers."
+    "german": "Eine Operation kann nicht ausgeführt werden aufgrund eines unerwarteten Fehlers.",
+    "spanish": "Algo en lo que traté de hacer una operación fue eliminado o no existe",
+    "french": "Quelque chose sur lequel j'ai essayé d'effectuer une opération a été supprimé ou n'existe pas",
+    "dutch": "Iets waarop ik een operatie probeerde uit te voeren, is verwijderd of bestaat niet"
   },
   "I don't have permission to reply to you in /{guild}/": {
-    "german": "Ich habe keine Berechtigung, dir in /{guild}/ zu antworten"
+    "german": "Ich habe keine Berechtigung, dir in /{guild}/ zu antworten",
+    "spanish": "No tengo permiso para responderte en /{guild}/",
+    "french": "Je n'ai pas la permission de vous répondre dans /{guild}/",
+    "dutch": "Ik heb geen toestemming om u te antwoorden in /{guild}/"
   },
   "Can't operate due to this server reaching the max number of roles": {
-    "german": "/{guild}/ hat maximale Rollen erreicht."
+    "german": "/{guild}/ hat maximale Rollen erreicht.",
+    "spanish": "No se puede operar debido a que este servidor alcanzó el número máximo de roles",
+    "french": "Ne peut pas fonctionner car ce serveur atteint le nombre maximum de rôles",
+    "dutch": "Kan niet werken omdat deze server het maximale aantal rollen heeft bereikt"
   },
   "Oop-\\nDiscord shit in the bed\\nIt's not my fault, it's theirs": {
-    "german": "Hoppla, die Operation kann nicht ausgeführt werden, da Discord technische Probleme hat."
+    "german": "Hoppla, die Operation kann nicht ausgeführt werden, da Discord technische Probleme hat.",
+    "spanish": "Oop-\\nDiscord se cagó en la cama\\nNo es mi culpa, es de ellos",
+    "french": "Oups-\\nDiscord merde dans le lit\\nCe n'est pas ma faute, c'est la leur",
+    "dutch": "Oeps-\\Discord shit in the bed\\Het is niet mijn schuld, het is hun schuld"
   },
   "You can't use quotes in that command argument": {
-    "german": "Du kannst keine Anführungszeichen in diesem Befehlsargument verwenden."
+    "german": "Du kannst keine Anführungszeichen in diesem Befehlsargument verwenden.",
+    "spanish": "No puede usar comillas en ese argumento de comando",
+    "french": "Vous ne pouvez pas utiliser de guillemets dans cet argument de commande",
+    "dutch": "U kunt geen aanhalingstekens gebruiken in dat opdrachtargument"
   },
   "No Data: /{error}/": {
-    "german": "Keine Daten /{error}/"
+    "german": "Keine Daten /{error}/",
+    "spanish": "Sin datos: /{error}/",
+    "french": "Aucune donnée: /{error}/",
+    "dutch": "Geen gegevens: /{error}/"
   },
   "This error has been logged, and will be fixed soon": {
-    "german": "Dieser Fehler wurde erfasst und wird später behoben."
+    "german": "Dieser Fehler wurde erfasst und wird später behoben.",
+    "spanish": "Este error se ha registrado y se solucionará pronto.",
+    "french": "Cette erreur a été consignée et sera bientôt corrigée",
+    "dutch": "Deze fout is geregistreerd en wordt binnenkort verholpen"
+
   }
 }
