@@ -1,148 +1,52 @@
 {
   "Oop, I had an internal error. Rerun the command": {
     "DE": "Hoppla, Ein interner Fehler ist aufgetreten :( Bitte versuche es erneut.",
-    "ES": "Vaya, tuve un error interno. Vuelva a ejecutar el comando",
-    "FR": "Oups, j'ai eu une erreur interne. Relancez la commande",
-    "NL": "Oeps, ik had een interne fout. Voer de opdracht opnieuw uit",
-    "IT": "Oop, ho avuto un errore interno. Eseguire nuovamente il comando.",
-    "HR": "Up, imao sam internu grešku. Ponovno pokrenite naredbu",
-    "PT": "Ops, tive um erro interno. Execute novamente o comando",
-    "RU": "Ой, у меня была внутренняя ошибка. Повторите команду",
-    "SV": "Oj, jag hade ett internt fel. Kör kommandot igen",
     "CS": "Jejda, došlo k interní chybě. Spusťte příkaz znovu"
   },
   "`/{command}/` is disabled.": {
     "DE": "`/{command}/` is deaktivert.",
-    "ES": "`/{command}/` está deshabilitado.",
-    "FR": "`/{command}/` est désactivé.",
-    "NL": "`/{command}/` is uitgeschakeld.",
-    "IT": "`/{command}/` è disabilitato.",
-    "HR": "`/{command}/` je onemogućena.",
-    "PT": "`/{command}/` está desabilitado.",
-    "RU": "`/{command}/` отключена.",
-    "SV": "`/{command}/` är inaktiverat.",
     "CS": "`/{command}/` je deaktivovaný."
   },
   "You can't include a `\"` in that argument": {
     "DE": "Du kannst kein `\"` in diesem Argument verwenden.",
-    "ES": "No puedes incluir un `\"` en ese argumento",
-    "FR": "vous ne pouvez pas inclure un `\"` dans cet argument",
-    "NL": "U kunt geen `\"` in dat argument opnemen",
-    "IT": "Non puoi includere un `\"` in quell'argomento",
-    "HR": "Ne možete uključiti `\"` u taj argument",
-    "PT": "Você não pode incluir um `\"` nesse argumento",
-    "RU": "Вы не можете включать `\"` в этот аргумент",
-    "SV": "Du kan inte inkludera ett `\"` i det argumentet",
     "CS": "Do tohoto argumentu nemůžete vložit `\"`"
   },
   "Error saving changes because to a duplicate entry, it's likely you ran the command twice at once": {
     "DE": "Änderungen konnten nicht gespeichert werden, da es einen doppelten Eintrag gab. Möglicherweise hast du den Befehl zweimal gleichzeitig ausgeführt?",
-    "ES": "Error al guardar los cambios debido a una entrada duplicada, es probable que haya ejecutado el comando dos veces a la vez",
-    "FR": "Erreur lors de l'enregistrement des modifications car pour une entrée en double, il est probable que vous ayez exécuté la commande deux fois à la fois",
-    "NL": "Fout bij het opslaan van wijzigingen omdat het waarschijnlijk is dat u de opdracht twee keer tegelijk hebt uitgevoerd voor een dubbele invoer",
-    "IT": "Errore durante il salvataggio delle modifiche a causa di una voce duplicata, è probabile che tu abbia eseguito il comando due volte contemporaneamente",
-    "HR": "Pogreška prilikom spremanja promjena jer je za duplicirani unos vjerojatno dva puta pokrenula naredbu odjednom",
-    "PT": "Erro ao salvar as alterações porque, para uma entrada duplicada, é provável que você tenha executado o comando duas vezes ao mesmo tempo",
-    "RU": "Ошибка при сохранении изменений из-за повторяющейся записи, скорее всего, вы выполнили команду дважды одновременно.",
-    "SV": "Fel när ändringarna skulle sparas eftersom det är troligt att du körde kommandot två gånger samtidigt för en dubblettpost",
     "CS": "Při ukládání změn došlo k chybě kvůli duplicitní položce, je pravděpodobné že jste příkaz spustili dvakrát najednou"
   },
   "/{command}/ is disabled here": {
     "DE": "Hier ist /{command}/ deaktivert",
-    "ES": "/{command}/ está deshabilitado aquí",
-    "FR": "/{command}/ est désactivé ici",
-    "NL": "/{command}/ is hier uitgeschakeld",
-    "IT": "/{command}/ è disabilitato qui",
-    "HR": "/{command}/ je ovdje onemogućena",
-    "PT": "/{command}/ está desabilitado aqui",
-    "RU": "/{command}/ здесь отключена",
-    "SV": "/{command}/ är inaktiverat här",
     "CS": "/{command}/ je zde deaktivovaný"
   },
   "Something I tried to do an operation on was removed or doesn't exist": {
     "DE": "Eine Operation kann nicht ausgeführt werden aufgrund eines unerwarteten Fehlers.",
-    "ES": "Algo en lo que traté de hacer una operación fue eliminado o no existe",
-    "FR": "Quelque chose sur lequel j'ai essayé d'effectuer une opération a été supprimé ou n'existe pas",
-    "NL": "Iets waarop ik een operatie probeerde uit te voeren, is verwijderd of bestaat niet",
-    "IT": "Qualcosa su cui ho provato a eseguire un'operazione è stato rimosso o non esiste",
-    "HR": "Nešto što sam pokušao operirati je uklonjeno ili ne postoji",
-    "PT": "Algo em que tentei fazer uma operação foi removido ou não existe",
-    "RU": "Что-то, над чем я пытался выполнить операцию, было удалено или не существует",
-    "SV": "Något jag försökte göra en operation på togs bort eller finns inte",
     "CS": "Něco, na čem jsem se pokusil provést operaci, bylo odstraněno nebo neexistuje"
   },
   "I don't have permission to reply to you in /{guild}/": {
     "DE": "Ich habe keine Berechtigung, dir in /{guild}/ zu antworten",
-    "ES": "No tengo permiso para responderte en /{guild}/",
-    "FR": "Je n'ai pas la permission de vous répondre dans /{guild}/",
-    "NL": "Ik heb geen toestemming om u te antwoorden in /{guild}/",
-    "IT": "Non sono autorizzato a risponderti in /{guild}/",
-    "HR": "Nemam dozvolu da vam odgovorim u /{guild}/",
-    "PT": "Não tenho permissão para responder a você em /{guild}/",
-    "RU": "У меня нет разрешения отвечать вам в /{guild}/",
-    "SV": "Jag har inte behörighet att svara dig i /{guild}/",
     "CS": "Nemám oprávnění vám odpovědět v /{guild}/"
   },
   "Can't operate due to this server reaching the max number of roles": {
     "DE": "/{guild}/ hat maximale Rollen erreicht.",
-    "ES": "No se puede operar debido a que este servidor alcanzó el número máximo de roles",
-    "FR": "Ne peut pas fonctionner car ce serveur atteint le nombre maximum de rôles",
-    "NL": "Kan niet werken omdat deze server het maximale aantal rollen heeft bereikt",
-    "IT": "Impossibile operare perché questo server ha raggiunto il numero massimo di ruoli",
-    "HR": "Ne može raditi jer ovaj poslužitelj dostiže maksimalan broj uloga",
-    "PT": "Não é possível operar porque este servidor atingiu o número máximo de funções",
-    "RU": "Невозможно работать из-за того, что на этом сервере достигнуто максимальное количество ролей",
-    "SV": "Kan inte fungera på grund av att den här servern når det maximala antalet roller",
     "CS": "Nelze operovat, protože tento server dosáhl maximálního počtu rolí"
   },
   "Oop-\\nDiscord shit in the bed\\nIt's not my fault, it's theirs": {
     "DE": "Hoppla, die Operation kann nicht ausgeführt werden, da Discord technische Probleme hat.",
-    "ES": "Oop-\\nDiscord se cagó en la cama\\nNo es mi culpa, es de ellos",
-    "FR": "Oups-\\nDiscord merde dans le lit\\nCe n'est pas ma faute, c'est la leur",
-    "NL": "Oeps-\\Discord shit in the bed\\Het is niet mijn schuld, het is hun schuld",
-    "IT": "Oop-\\nDiscord merda nel letto\\nNon è colpa mia, è loro",
-    "HR": "Oop-\\nDiscord sere u krevetu\\nNisam ja kriv, oni su",
-    "PT": "Oop-\\nDiscord merda na cama\\nNão é minha culpa, é deles",
-    "RU": "Упс-\\nDiscord дерьмо в постели\\nЭто не моя вина, это их вина",
-    "SV": "Hoppsan-\\nDiscord i sängen\\nDet är inte mitt fel, det är deras",
     "CS": "Jejda-\\nDiscord se posral v posteli\\nNení to moje chyba, je to jejich"
   },
   "You can't use quotes in that command argument": {
     "DE": "Du kannst keine Anführungszeichen in diesem Befehlsargument verwenden.",
-    "ES": "No puede usar comillas en ese argumento de comando",
-    "FR": "Vous ne pouvez pas utiliser de guillemets dans cet argument de commande",
-    "NL": "U kunt geen aanhalingstekens gebruiken in dat opdrachtargument",
-    "IT": "Non puoi usare le virgolette in quell'argomento di comando",
-    "HR": "Ne možete koristiti navodnike u tom argumentu naredbe",
-    "PT": "Você não pode usar aspas nesse argumento de comando",
-    "RU": "Вы не можете использовать кавычки в этом аргументе команды",
-    "SV": "Du kan inte använda citattecken i det kommandoargumentet",
     "CS": "V tomto argumentu příkazu nemůžete použít uvozovky"
 
   },
   "No Data: /{error}/": {
     "DE": "Keine Daten /{error}/",
-    "ES": "Sin datos: /{error}/",
-    "FR": "Aucune donnée: /{error}/",
-    "NL": "Geen gegevens: /{error}/",
-    "IT": "Nessun dato: /{error}/",
-    "HR": "Nema podataka: /{error}/",
-    "PT": "Sem dados: /{error}/",
-    "RU": "Нет данных: /{error}/",
-    "SV": "Inga data: /{error}/",
     "CS": "Žádná data: /{error}/"
 
   },
   "This error has been logged, and will be fixed soon": {
     "DE": "Dieser Fehler wurde erfasst und wird später behoben.",
-    "ES": "Este error se ha registrado y se solucionará pronto.",
-    "FR": "Cette erreur a été consignée et sera bientôt corrigée",
-    "NL": "Deze fout is geregistreerd en wordt binnenkort verholpen",
-    "IT": "Questo errore è stato registrato e verrà risolto a breve",
-    "HR": "Ova pogreška je zabilježena i uskoro će biti ispravljena",
-    "PT": "Este erro foi registrado e será corrigido em breve",
-    "RU": "Эта ошибка зарегистрирована и скоро будет исправлена",
-    "SV": "Det här felet har loggats och kommer att åtgärdas snart",
     "CS": "Tato chyba byla zaznamenána a bude brzy opravena"
   }
 }

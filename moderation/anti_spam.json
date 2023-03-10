@@ -1,22 +1,6 @@
 {
   "You've been muted in %s for %s for %s": {
     "DE": "Du wurdest in %s für %s stummgeschaltet wegen %s",
-    "ES": "The translation",
-    "FR": "vous avez été mis en sourdine dans %s pour %s à cause de %s",
-    "NL": "je bent gedempt in %s voor %s vanwege %s",
-    "IT": "sei stato silenziato in %s per %s a causa di %s",
-    "HR": "isključen vam je zvuk u %s za %s zbog %s",
-    "PT": "você foi silenciado em %s por %s por causa de %s",
-    "RU": "вы были отключены в %s для %s из-за %s",
-    "SV": "du har blivit avstängd i %s för %s på grund av %s",
-    "CS": "byli jste ztlumeni v %s uživatelem %s z důvodu %s",
-    "AR": "تم كتم صوتك في%s بسبب%s بواسطة%s",
-    "DV": "thibaa ge anga huhtevunee %s in %s ah %s un",
-    "KU": "Hûn di %s de ji ber %s ji hêla %s ve hatine bêdeng kirin",
-    "TR": "sen %s'de %s yüzünden  %s tarafından susturuldun",
-    "ZH": "",
-    "JP": ""
-
-
+    "CS": "byli jste ztlumeni v %s uživatelem %s z důvodu %s"
   }
 }
