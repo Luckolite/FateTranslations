@@ -21,7 +21,7 @@
     "portuguese": "`/{command}/` está desabilitado.",
     "russian": "`/{command}/` отключена.",
     "swedish": "`/{command}/` är inaktiverat.",
-    "czech": "`/{command}/` je zakázáno."
+    "czech": "`/{command}/` je deaktivovaný."
   },
   "You can't include a `\"` in that argument": {
     "german": "Du kannst kein `\"` in diesem Argument verwenden.",
@@ -45,7 +45,7 @@
     "portuguese": "Erro ao salvar as alterações porque, para uma entrada duplicada, é provável que você tenha executado o comando duas vezes ao mesmo tempo",
     "russian": "Ошибка при сохранении изменений из-за повторяющейся записи, скорее всего, вы выполнили команду дважды одновременно.",
     "swedish": "Fel när ändringarna skulle sparas eftersom det är troligt att du körde kommandot två gånger samtidigt för en dubblettpost",
-    "czech": "Při ukládání změn došlo k chybě, protože u duplicitní položky je pravděpodobné, že jste příkaz spustili dvakrát najednou"
+    "czech": "Při ukládání změn došlo k chybě kvůli duplicitní položce, je pravděpodobné že jste příkaz spustili dvakrát najednou"
   },
   "/{command}/ is disabled here": {
     "german": "Hier ist /{command}/ deaktivert",
@@ -57,7 +57,7 @@
     "portuguese": "/{command}/ está desabilitado aqui",
     "russian": "/{command}/ здесь отключена",
     "swedish": "/{command}/ är inaktiverat här",
-    "czech": "/{command}/ je zde zakázáno"
+    "czech": "/{command}/ je zde deaktivovaný"
   },
   "Something I tried to do an operation on was removed or doesn't exist": {
     "german": "Eine Operation kann nicht ausgeführt werden aufgrund eines unerwarteten Fehlers.",
@@ -93,7 +93,7 @@
     "portuguese": "Não é possível operar porque este servidor atingiu o número máximo de funções",
     "russian": "Невозможно работать из-за того, что на этом сервере достигнуто максимальное количество ролей",
     "swedish": "Kan inte fungera på grund av att den här servern når det maximala antalet roller",
-    "czech": "Nelze fungovat, protože tento server dosáhl maximálního počtu rolí"
+    "czech": "Nelze operovat, protože tento server dosáhl maximálního počtu rolí"
   },
   "Oop-\\nDiscord shit in the bed\\nIt's not my fault, it's theirs": {
     "german": "Hoppla, die Operation kann nicht ausgeführt werden, da Discord technische Probleme hat.",
@@ -105,7 +105,7 @@
     "portuguese": "Oop-\\nDiscord merda na cama\\nNão é minha culpa, é deles",
     "russian": "Упс-\\nDiscord дерьмо в постели\\nЭто не моя вина, это их вина",
     "swedish": "Hoppsan-\\nDiscord i sängen\\nDet är inte mitt fel, det är deras",
-    "czech": "Jejda-\\nDiscord sračky v posteli\\nNení to moje chyba, je to jejich"
+    "czech": "Jejda-\\nDiscord se posral v posteli\\nNení to moje chyba, je to jejich"
   },
   "You can't use quotes in that command argument": {
     "german": "Du kannst keine Anführungszeichen in diesem Befehlsargument verwenden.",
