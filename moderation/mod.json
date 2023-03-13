@@ -5,7 +5,7 @@
   },
   "You lack administrator or usermod permissions to use this command": {
     "DE": "",
-    "CS":"K použití tohoto příkazu vám chybí oprávnění správce nebo usermod"
+    "CS":"K použití tohoto příkazu vám chybí oprávnění administrátor nebo usermod"
   },
   "Couldn't convert '%s' into member": {
     "DE": "",
