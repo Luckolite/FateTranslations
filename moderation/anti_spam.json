@@ -1,6 +1,7 @@
 {
   "You've been muted in %s for %s for %s": {
     "DE": "Du wurdest in %s für %s stummgeschaltet wegen %s",
-    "CS": "byli jste ztlumeni v %s uživatelem %s z důvodu %s"
+    "CS": "byli jste ztlumeni v %s uživatelem %s z důvodu %s",
+    "SV": "Du har blivit tystad i %s i %s på grund av %s"
   }
 }

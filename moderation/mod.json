@@ -1,18 +1,22 @@
 {
   "That command is already running >:(": {
     "DE":"",
-    "CS":"Tento příkaz už běží >:("
+    "CS":"Tento příkaz už běží >:(",
+    "SV":"Det kommandot körs redan >:("
   },
   "You lack administrator or usermod permissions to use this command": {
     "DE": "",
-    "CS":"K použití tohoto příkazu vám chybí oprávnění administrátor nebo usermod"
+    "CS":"K použití tohoto příkazu vám chybí oprávnění administrátor nebo usermod",
+    "SV":"Du saknar administratörs- eller usermod-rättigheter för att använda det här kommandot"
   },
   "Couldn't convert '%s' into member": {
     "DE": "",
-    "CS":"Nelze převést '%s' na člena"
+    "CS":"Nelze převést '%s' na člena",
+    "SV":"Kunde inte konvertera '%s' till medlem"
   },
   "Role not found": {
     "DE": "",
-    "CS":"Role nenalezena"
+    "CS":"Role nenalezena",
+    "SV":"Rollen hittades inte"
   }
 }
