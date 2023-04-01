@@ -12,6 +12,7 @@ Fate is a ~~multipurpose~~ hybrid bot created for fun, featuring moderation, giv
 - German (Deutsch)
 - Czech (čeština)
 - Polish (Polski)
+- Swedish (Svenska)
 
 <sup>[Devin's Badges Credits](https://intergrav.github.io/devins-badges-docs/credits/)</sup><sup> | </sup><sup>[Privacy Policy](https://gist.github.com/FrequencyX4/a31d065b66d9ce2448f3dae3ac96bfd1)</sup><sup> | </sup><sup>Thanks to PokeRuto898#9826, Opal#8538, K9.#0727 and Luck#1574 for helping with this project</sup>
 

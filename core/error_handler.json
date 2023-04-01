@@ -1,52 +1,63 @@
 {
   "Oop, I had an internal error. Rerun the command": {
     "DE": "Hoppla, Ein interner Fehler ist aufgetreten :( Bitte versuche es erneut.",
-    "CS": "Jejda, došlo k interní chybě. Spusťte příkaz znovu"
+    "CS": "Jejda, došlo k interní chybě. Spusťte příkaz znovu",
+    "SV": "Hoppsan, jag hade ett internt fel. Kör kommandot igen"
   },
   "`/{command}/` is disabled.": {
     "DE": "`/{command}/` is deaktivert.",
-    "CS": "`/{command}/` je deaktivovaný."
+    "CS": "`/{command}/` je deaktivovaný.",
+    "SV": "`/{command}/` är inaktiverat."
   },
   "You can't include a `\"` in that argument": {
     "DE": "Du kannst kein `\"` in diesem Argument verwenden.",
-    "CS": "Do tohoto argumentu nemůžete vložit `\"`"
+    "CS": "Do tohoto argumentu nemůžete vložit `\"`",
+    "SV": "Du kan inte inkludera ett `\"` i det här argumentet."
   },
   "Error saving changes because to a duplicate entry, it's likely you ran the command twice at once": {
     "DE": "Änderungen konnten nicht gespeichert werden, da es einen doppelten Eintrag gab. Möglicherweise hast du den Befehl zweimal gleichzeitig ausgeführt?",
-    "CS": "Při ukládání změn došlo k chybě kvůli duplicitní položce, je pravděpodobné že jste příkaz spustili dvakrát najednou"
+    "CS": "Při ukládání změn došlo k chybě kvůli duplicitní položce, je pravděpodobné že jste příkaz spustili dvakrát najednou",
+    "SV": "Fel i sparandet av ändringar på grund av en dubbelpost, det är troligt att du körde kommandot två gånger samtidigt"
   },
   "/{command}/ is disabled here": {
     "DE": "Hier ist /{command}/ deaktivert",
-    "CS": "/{command}/ je zde deaktivovaný"
+    "CS": "/{command}/ je zde deaktivovaný",
+    "SV": "/{command}/ är inaktiverat här"
   },
   "Something I tried to do an operation on was removed or doesn't exist": {
     "DE": "Eine Operation kann nicht ausgeführt werden aufgrund eines unerwarteten Fehlers.",
-    "CS": "Něco, na čem jsem se pokusil provést operaci, bylo odstraněno nebo neexistuje"
+    "CS": "Něco, na čem jsem se pokusil provést operaci, bylo odstraněno nebo neexistuje",
+    "SV": "Något jag försökte göra en ändring på togs bort eller finns inte"
   },
   "I don't have permission to reply to you in /{guild}/": {
     "DE": "Ich habe keine Berechtigung, dir in /{guild}/ zu antworten",
-    "CS": "Nemám oprávnění vám odpovědět v /{guild}/"
+    "CS": "Nemá oprávnění vám odpovědět v /{guild}/",
+    "SV": "Jag har inte behörighet att svara dig i /{guild}/"
   },
   "Can't operate due to this server reaching the max number of roles": {
     "DE": "/{guild}/ hat maximale Rollen erreicht.",
-    "CS": "Nelze operovat, protože tento server dosáhl maximálního počtu rolí"
+    "CS": "Nelze operovat, protože tento server dosáhl maximálního počtu rolí",
+    "SV": "Kan inte utföra på grund av att servern har nått max antal roller"
   },
   "Oop-\\nDiscord shit in the bed\\nIt's not my fault, it's theirs": {
     "DE": "Hoppla, die Operation kann nicht ausgeführt werden, da Discord technische Probleme hat.",
-    "CS": "Jejda-\\nDiscord se posral v posteli\\nNení to moje chyba, je to jejich"
+    "CS": "Jejda-\\nDiscord se posral v posteli\\nNení to moje chyba, je to jejich",
+    "SV": "Hoppsan-\\nDiscord sket i det blå skåpet\\nDet är inte mitt fel, det är deras"
   },
   "You can't use quotes in that command argument": {
     "DE": "Du kannst keine Anführungszeichen in diesem Befehlsargument verwenden.",
-    "CS": "V tomto argumentu příkazu nemůžete použít uvozovky"
-
+    "CS": "V tomto argumentu příkazu nemůžete použít uvozovky",
+    "SV": "Du kan inte använda citationstecken i det här kommandet"
   },
   "No Data: /{error}/": {
     "DE": "Keine Daten /{error}/",
-    "CS": "Žádná data: /{error}/"
+    "CS": "Žádná data: /{error}/",
+    "SV": "Ingen Data: /{error}/"
 
   },
   "This error has been logged, and will be fixed soon": {
     "DE": "Dieser Fehler wurde erfasst und wird später behoben.",
-    "CS": "Tato chyba byla zaznamenána a bude brzy opravena"
+    "CS": "Tato chyba byla zaznamenána a bude brzy opravena",
+    "SV": "Det är felet är känt, kommer att vara fixat snart"
   }
 }
